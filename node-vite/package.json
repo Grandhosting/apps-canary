@@ -1,0 +1,12 @@
+{
+  "name": "canary-node-vite",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "vite build",
+    "start": "node server.js"
+  },
+  "devDependencies": {
+    "vite": "7.3.7"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "canary-bun",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "bun run index.ts"
+  },
+  "dependencies": {
+    "ms": "2.1.3"
+  }
+}
